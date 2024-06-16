@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkashKaizoku
-- 👀 I’m interested in c language coding
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on anything about c lanuguage
+- 👀 I’m interested in Python, Java, C++, C language coding
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me mail me ponnamakash17@gmail.com
 
 <!---
